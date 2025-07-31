@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const PASSWORD_ELIMINAR = 'error'; // Contraseña para eliminar registros
   const CONFIG_JSON = {
     usuario: "admin",
-    contraseña: "fixbionic2025"
+    contraseña: "ADMIN"
   };
   
   let filaSeleccionada = null;
