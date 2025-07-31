@@ -408,7 +408,10 @@ function exportarSeleccionadaComoImagen(tipo = null) {
     <div class="center">
       <img src="../../data/img/a1.png" alt="Logo Fixbionic" class="logo" />
     </div>
-
+     <div class="center">
+      <A>NO SE DAGARANTIA SI = <br> 
+        EL DISPOSITIVO ESTA HUMEDO, QUEBRADO, QUEMADO, O TIENE SOBRE CARGA ELECTRICA</A>
+    </div>
     <div class="center">
       <strong>Fix_Bionic</strong><br />
       NIT: 1022421675-9<br />
